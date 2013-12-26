@@ -30,12 +30,23 @@ Moderadores   : Daniel Filho,
 ## FEMUG-RS
 ```
 Lista         : http://goo.gl/RDWFlf
-Form Anfitrião: 
+Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Porto Alegre, RS
 Responsável   : Jaydson Gomes
 Moderadores   : Jaydson Gomes
 				Felipe Moura
                 Jean Carlo Emer
+```
+-----
+## FEMUG-CE
+```
+Lista         : http://bit.ly/FEMUG-CE
+Form Anfitrião:
+Capítulo      : Estadual
+Sede          : Fortaleza, CE
+Responsável   : Daniel Castro
+Moderadores   : Daniel Castro
+                Elias de Oliveira
 ```
 -----
