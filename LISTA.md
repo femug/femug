@@ -25,7 +25,7 @@ Moderadores   : Miller Medeiros
 ## FEMUG-CE
 ```
 Lista         : http://bit.ly/FEMUG-CE
-Form Anfitrião: http://bit.ly/FEMUG-CE-ANF
+Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Fortaleza, CE
 Responsável   : Daniel Castro
