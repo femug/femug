@@ -22,6 +22,17 @@
         "Miller Medeiros",
         "Rafael Lyra"
       ]
+    }],
+    "FEMUG-CE": [{
+      "capitulo": "estadual",
+      "sede": "Fortaleza, CE",
+      "url": "http://bit.ly/FEMUG-CE",
+      "formulario-anfitriao": "http://bit.ly/FEMUG-CE-ANF",
+      "fundador": "Daniel Castro",
+      "moderadores": [
+        "Daniel Castro",
+        "Elias de Oliveira"
+      ]
     }]
   }
 }

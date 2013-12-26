@@ -22,3 +22,14 @@ Moderadores   : Miller Medeiros
                 Rafael Lyra
 ```
 -----
+## FEMUG-CE
+```
+Lista         : http://bit.ly/FEMUG-CE
+Form Anfitrião: http://bit.ly/FEMUG-CE-ANF
+Capítulo      : Estadual
+Sede          : Fortaleza, CE
+Responsável   : Daniel Castro
+Moderadores   : Daniel Castro
+                Elias de Oliveira
+```
+-----
