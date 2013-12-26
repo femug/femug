@@ -22,6 +22,18 @@
         "Miller Medeiros",
         "Rafael Lyra"
       ]
+    }],
+    "FEMUG-RS": [{
+      "capitulo": "estadual",
+      "sede": "Porto Alegre, RS",
+      "url": "http://goo.gl/RDWFlf",
+      "formulario-anfitriao": "",
+      "fundador": "Jaydson Gomes",
+      "moderadores": [
+        "Jaydson Gomes",
+        "Felipe Moura",
+        "Jean Carlo Emer"
+      ]
     }]
   }
 }

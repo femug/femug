@@ -22,3 +22,16 @@ Moderadores   : Miller Medeiros
                 Rafael Lyra
 ```
 -----
+
+## FEMUG-RS
+```
+Lista         : http://goo.gl/RDWFlf
+Form Anfitrião: 
+Capítulo      : Estadual
+Sede          : Porto Alegre, RS
+Responsável   : Jaydson Gomes
+Moderadores   : Jaydson Gomes
+				Felipe Moura
+                Jean Carlo Emer
+```
+-----
