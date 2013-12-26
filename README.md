@@ -118,7 +118,7 @@ Uma vez que uma empresa concorde em ceder um espaço, geralmente a mesma costuma
 
 ## Índice FEMUG
 
-Antes de criar um novo FEMUG, confira se já existe um em sua cidade no [índice FEMUG](http://github.com/braziljs/femug/indice.md). Caso exista, junte-se a ele, não crie um novo. As comunidades devem se unir, e não capilarizar. Acredito que uma cidade é um bom delimitador para não crescermos desorganizadamente.
+Antes de criar um novo FEMUG, confira se já existe um em sua cidade no [índice FEMUG](http://github.com/braziljs/femug/blob/master/LISTA.md). Caso exista, junte-se a ele, não crie um novo. As comunidades devem se unir, e não capilarizar. Acredito que uma cidade é um bom delimitador para não crescermos desorganizadamente.
 
 Abaixo, um exemplo de como preencher o índice.
 
