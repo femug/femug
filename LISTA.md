@@ -3,6 +3,9 @@
 Abaixo, todos os FEMUGs oficiais, criados à partir da [documentação criada pela BrazilJS Foundation](http://github.com/braziljs/femug).
 
 ## FEMUG-BR
+
+A lista FEMUG-BR pode ser vista por todos, mas apenas os fundadores e moderadores das listas regionais poderão enviar e-mails.
+
 ```
 Lista         : http://bit.ly/FEMUG-BR
 Capítulo:     : Nacional
