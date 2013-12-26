@@ -3,6 +3,9 @@
 Abaixo, todos os FEMUGs oficiais, criados à partir da [documentação criada pela BrazilJS Foundation](http://github.com/braziljs/femug).
 
 ## FEMUG-BR
+
+A lista FEMUG-BR pode ser vista por todos, mas apenas os fundadores e moderadores das listas regionais poderão enviar e-mails.
+
 ```
 Lista         : http://bit.ly/FEMUG-BR
 Capítulo:     : Nacional
@@ -18,7 +21,8 @@ Form Anfitrião: http://bit.ly/FEMUG-SP-ANF
 Capítulo      : Estadual
 Sede          : São Paulo, SP
 Responsável   : Daniel Filho
-Moderadores   : Miller Medeiros
+Moderadores   : Daniel Filho,
+                Miller Medeiros,
                 Rafael Lyra
 ```
 -----
@@ -26,12 +30,23 @@ Moderadores   : Miller Medeiros
 ## FEMUG-RS
 ```
 Lista         : http://goo.gl/RDWFlf
-Form Anfitrião: 
+Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Porto Alegre, RS
 Responsável   : Jaydson Gomes
 Moderadores   : Jaydson Gomes
 				Felipe Moura
                 Jean Carlo Emer
+```
+-----
+## FEMUG-CE
+```
+Lista         : http://bit.ly/FEMUG-CE
+Form Anfitrião:
+Capítulo      : Estadual
+Sede          : Fortaleza, CE
+Responsável   : Daniel Castro
+Moderadores   : Daniel Castro
+                Elias de Oliveira
 ```
 -----
