@@ -50,3 +50,13 @@ Moderadores   : Daniel Castro
                 Elias de Oliveira
 ```
 -----
+## FEMUG-MG
+```
+Lista         : http://cnun.es/K0eUm6
+Form Anfitrião:
+Capítulo      : Estadual
+Sede          : Belo Horizonte, MG
+Responsável   : Ciro Nunes
+Moderadores   : Ciro Nunes
+```
+-----
