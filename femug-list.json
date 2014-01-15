@@ -45,6 +45,16 @@
         "Daniel Castro",
         "Elias de Oliveira"
       ]
+    }],
+    "FEMUG-MG": [{
+      "capitulo": "estadual",
+      "sede": "Belo Horizonte, MG",
+      "url": "http://cnun.es/K0eUm6",
+      "formulario-anfitriao": "",
+      "fundador": "Ciro Nunes",
+      "moderadores": [
+        "Ciro Nunes"
+      ]
     }]
   }
 }
