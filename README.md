@@ -1,5 +1,6 @@
 # FEMUG - Instruções
 
+> **Mantenedor:** [Daniel Filho](https://github.com/danielfilho)
 
 ## O que é FEMUG
 
@@ -49,14 +50,14 @@ Abaixo, um exemplo de ata usado para o *FEMUSP #3*:
 > - [EmberJS](http://emberjs.com/)
 > - [TodoMVC](http://todomvc.com/)
 
-> Se alguem lembrar de mais algo que falamos, e so mandar. 
+> Se alguem lembrar de mais algo que falamos, e so mandar.
 
 > Abraco e, mais uma vez, valeu por todo mundo participar :)
 
 
 ### Local
 
-O local a ser realizado deve ter suporte para pelo menos dez pessoas. 
+O local a ser realizado deve ter suporte para pelo menos dez pessoas.
 
 ### Convidados
 
