@@ -2,7 +2,7 @@
 
 Logo 1:
 
-![](logo-femug1)
+![](logo-femug1.png)
 
 A logo foi criada pensando na simplicidade e aplicações de identidade, para o ícone foi utilizada um elemento que representa a linguagem de marcação "< >" e um elemento que representa a linguagem interpretada/manipulação "{ }".
 
