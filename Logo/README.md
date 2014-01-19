@@ -1,6 +1,6 @@
 ## Esclarecimentos
 
-Fiz um logo principal e algumas versões alternativas para apreciação. Uma das opções brinca com a ideia de um objeto JS representando o FEMUG e tendo como atributo a UF em questão.(femug.UF). As demais são variações da ideia principal, porém com cores diferentes, como se pode ver nas imagens abaixo.
+Fiz um logo principal e algumas versões alternativas para apreciação. Uma das opções brinca com a ideia de um objeto JS representando o FEMUG e tendo como atributo a UF em questão (femug.UF). As demais são variações da ideia principal, porém com cores diferentes, como se pode ver nas imagens abaixo.
 
 #Opção principal:
 
