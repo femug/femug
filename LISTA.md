@@ -61,7 +61,7 @@ Moderadores   : Ciro Nunes
 -----
 ## FEMUG-GO
 ```
-Lista         : http://bit.ly/femug-go
+Lista         : http://bit.ly/FEMUG-GO
 Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Goiânia, GO
