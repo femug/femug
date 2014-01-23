@@ -60,3 +60,15 @@ Responsável   : Ciro Nunes
 Moderadores   : Ciro Nunes
 ```
 -----
+
+-----
+## FEMUG-GO
+```
+Lista         : http://bit.ly/femug-go
+Form Anfitrião:
+Capítulo      : Estadual
+Sede          : Goiânia, GO
+Responsável   : João Felix
+Moderadores   : João Felix
+```
+-----
