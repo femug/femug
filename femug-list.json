@@ -55,6 +55,16 @@
       "moderadores": [
         "Ciro Nunes"
       ]
+    }],
+    "FEMUG-GO": [{
+      "capitulo": "estadual",
+      "sede": "Goiânia, GO",
+      "url": "http://bit.ly/FEMUG-GO",
+      "formulario-anfitriao": "",
+      "fundador": "João Felix",
+      "moderadores": [
+        "João Felix"
+      ]
     }]
   }
 }
