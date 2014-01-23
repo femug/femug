@@ -26,7 +26,6 @@ Moderadores   : Daniel Filho,
                 Rafael Lyra
 ```
 -----
-
 ## FEMUG-RS
 ```
 Lista         : http://goo.gl/RDWFlf
@@ -59,8 +58,6 @@ Sede          : Belo Horizonte, MG
 Responsável   : Ciro Nunes
 Moderadores   : Ciro Nunes
 ```
------
-
 -----
 ## FEMUG-GO
 ```
