@@ -69,3 +69,16 @@ Responsável   : João Felix
 Moderadores   : João Felix
 ```
 -----
+## FEMUG-SC
+```
+Lista         : http://goo.gl/vwLJe9
+Form Anfitrião:
+Capítulo      : Estadual
+Sede          : Florianópolis, SC
+Responsável   : Diogo Moretti
+Moderadores   : Diogo Moretti
+                Fernando Daciuk
+                Luiz Henrique Estacio
+                Michel Wilhelm
+```
+-----
