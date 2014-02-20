@@ -65,6 +65,19 @@
       "moderadores": [
         "João Felix"
       ]
+    }],
+    "FEMUG-SC": [{
+      "capitulo": "estadual",
+      "sede": "Florianópolis, SC",
+      "url": "http://goo.gl/vwLJe9",
+      "formulario-anfitriao": "",
+      "fundador": "Diogo Moretti",
+      "moderadores": [
+        "Diogo Moretti",
+        "Fernando Daciuk",
+        "Luiz Henrique Estacio",
+        "Michel Wilhelm"
+      ]
     }]
   }
 }
