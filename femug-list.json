@@ -78,6 +78,16 @@
         "Luiz Henrique Estacio",
         "Michel Wilhelm"
       ]
+    }],
+    "FEMUG-AM": [{
+      "capitulo": "estadual",
+      "sede": "Manaus, AM",
+      "url": "http://j.mp/femug-am",
+      "formulario-anfitriao": "http://j.mp/femug-am-anf",
+      "fundador": "Ayrton Araújo",
+      "moderadores": [
+        "Ayrton Araújo"
+      ]
     }]
   }
 }
