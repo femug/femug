@@ -92,3 +92,13 @@ Responsável   : Ayrton Araújo
 Moderadores   : Ayrton Araújo
 ```
 -----
+## FEMUG-VALE
+```
+Lista         : http://migre.me/iJBFc
+Form Anfitrião: 
+Capítulo      : Regional
+Sede          : São José dos Campos, SP
+Responsável   : Cassio Cardoso
+Moderadores   : Cassio Cardoso
+```
+-----
