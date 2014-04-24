@@ -20,11 +20,10 @@ Caso seja criado um grupo para todo o estado, o mesmo deverá ter como sede a ca
 
 ## Formato
 
-O encontro deve contar com um meio comum de comunicação, sendo este uma lista de e-mails. Por esta lista de e-mails é feito toda a comunicação de novos eventos, anúncios relevantes, interação entre os membros, envio da [ata](https://github.com/braziljs/femug/blob/master/README.md#ata-do-encontro) e demais assuntos e dúvidas pertinentes.
-
-A lista de e-mail deve ter uma média de três a quatro managers para cada cem pessoas. A função desses managers é basicamente manter os bons modos e um fluxo coeso de novos membros, aprovando sua entrada, julgando ponderadamente a chance de excluir alguém da lista, caso haja intenção de propaganda indesejada, insistência em tópicos delicados ou falta de respeito de qualquer forma, com um ou mais membros.
-
-O encontro deve ter a periodicidade que o grupo decidir necessária, sendo semanal, quinzenal, mensal ou acontecer apenas quando todos os membros chegarem a um acordo.
+1. O encontro deve contar com um meio comum de comunicação, sendo este uma lista de e-mails. Por esta lista de e-mails é feito toda a comunicação de novos eventos, anúncios relevantes, interação entre os membros, envio da [ata](https://github.com/braziljs/femug/blob/master/README.md#ata-do-encontro) e demais assuntos e dúvidas pertinentes.
+2. A lista de e-mail deve ter uma média de três a quatro managers para cada cem pessoas. A função desses managers é basicamente manter os bons modos e um fluxo coeso de novos membros, aprovando sua entrada, julgando ponderadamente a chance de excluir alguém da lista, caso haja intenção de propaganda indesejada, insistência em tópicos delicados ou falta de respeito de qualquer forma, com um ou mais membros.
+3. O conteúdo da lista deve ser aberto, e jamais fechado para que todos os interessados possam ler e consumir o conteúdo da lista, porém a mesma pode ser moderada para a entrada de novos membros, evitando assim *spammers*, *flooders* e afins.
+4. O encontro deve ter a periodicidade que o grupo decidir necessária, sendo semanal, quinzenal, mensal ou acontecer apenas quando todos os membros chegarem a um acordo.
 
 ### Temas do encontro
 
