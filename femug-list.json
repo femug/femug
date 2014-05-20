@@ -74,9 +74,19 @@
       "fundador": "Diogo Moretti",
       "moderadores": [
         "Diogo Moretti",
-        "Fernando Daciuk",
+        "Kauê Machado",
         "Luiz Henrique Estacio",
-        "Michel Wilhelm"
+        "Fernando Daciuk"
+      ]
+    }],
+    "FEMUG-AM": [{
+      "capitulo": "estadual",
+      "sede": "Manaus, AM",
+      "url": "http://j.mp/femug-am",
+      "formulario-anfitriao": "http://j.mp/femug-am-anf",
+      "fundador": "Ayrton Araújo",
+      "moderadores": [
+        "Ayrton Araújo"
       ]
     }]
   }

@@ -77,8 +77,18 @@ Capítulo      : Estadual
 Sede          : Florianópolis, SC
 Responsável   : Diogo Moretti
 Moderadores   : Diogo Moretti
-                Fernando Daciuk
+                Kauê Machado
                 Luiz Henrique Estacio
-                Michel Wilhelm
+                Fernando Daciuk
+```
+-----
+## FEMUG-AM
+```
+Lista         : http://j.mp/femug-am
+Form Anfitrião: http://j.mp/femug-am-anf
+Capítulo      : Estadual
+Sede          : Manaus, AM
+Responsável   : Ayrton Araújo
+Moderadores   : Ayrton Araújo
 ```
 -----
