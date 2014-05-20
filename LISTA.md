@@ -92,3 +92,16 @@ Responsável   : Ayrton Araújo
 Moderadores   : Ayrton Araújo
 ```
 -----
+## FEMUG-VALE DO PARAÍBA
+```
+Lista         : http://j.mp/femug-vale
+Form Anfitrião:
+Capítulo      : Regional
+Sede          : São José dos Campos, SP
+Responsável   : Eduardo Rabelo
+Moderadores   : Cassio Cardoso
+                Eduardo Rabelo
+                Reuel Adimar Lopes
+                Willian Bittencourt Ribeiro
+```
+-----
