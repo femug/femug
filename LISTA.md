@@ -57,6 +57,9 @@ Capítulo      : Estadual
 Sede          : Belo Horizonte, MG
 Responsável   : Ciro Nunes
 Moderadores   : Ciro Nunes
+		Beto Muniz
+		Erick Belfort
+		Rodolfo Dias
 ```
 -----
 ## FEMUG-GO
