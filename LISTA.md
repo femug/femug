@@ -81,8 +81,6 @@ Sede          : Florianópolis, SC
 Responsável   : Diogo Moretti
 Moderadores   : Diogo Moretti
                 Pedro Nauck
-                Luiz Henrique Estacio
-                Fernando Daciuk
 ```
 -----
 ## FEMUG-AM
