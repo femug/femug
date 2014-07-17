@@ -80,7 +80,7 @@ Capítulo      : Estadual
 Sede          : Florianópolis, SC
 Responsável   : Diogo Moretti
 Moderadores   : Diogo Moretti
-                Kauê Machado
+                Pedro Nauck
                 Luiz Henrique Estacio
                 Fernando Daciuk
 ```
