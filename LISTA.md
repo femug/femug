@@ -80,9 +80,7 @@ Capítulo      : Estadual
 Sede          : Florianópolis, SC
 Responsável   : Diogo Moretti
 Moderadores   : Diogo Moretti
-                Kauê Machado
-                Luiz Henrique Estacio
-                Fernando Daciuk
+                Pedro Nauck
 ```
 -----
 ## FEMUG-AM
