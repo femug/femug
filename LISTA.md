@@ -26,7 +26,6 @@ Moderadores   : Daniel Filho,
                 Rafael Lyra
 ```
 -----
-
 ## FEMUG-RS
 ```
 Lista         : http://goo.gl/RDWFlf
@@ -58,5 +57,39 @@ Capítulo      : Estadual
 Sede          : Belo Horizonte, MG
 Responsável   : Ciro Nunes
 Moderadores   : Ciro Nunes
+		Beto Muniz
+		Erick Belfort
+		Rodolfo Dias
+```
+-----
+## FEMUG-GO
+```
+Lista         : http://bit.ly/FEMUG-GO
+Form Anfitrião:
+Capítulo      : Estadual
+Sede          : Goiânia, GO
+Responsável   : João Felix
+Moderadores   : João Felix
+```
+-----
+## FEMUG-SC
+```
+Lista         : http://goo.gl/vwLJe9
+Form Anfitrião:
+Capítulo      : Estadual
+Sede          : Florianópolis, SC
+Responsável   : Diogo Moretti
+Moderadores   : Diogo Moretti
+                Pedro Nauck
+```
+-----
+## FEMUG-AM
+```
+Lista         : http://j.mp/femug-am
+Form Anfitrião: http://j.mp/femug-am-anf
+Capítulo      : Estadual
+Sede          : Manaus, AM
+Responsável   : Ayrton Araújo
+Moderadores   : Ayrton Araújo
 ```
 -----

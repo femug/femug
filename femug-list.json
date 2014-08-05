@@ -55,6 +55,37 @@
       "moderadores": [
         "Ciro Nunes"
       ]
+    }],
+    "FEMUG-GO": [{
+      "capitulo": "estadual",
+      "sede": "Goiânia, GO",
+      "url": "http://bit.ly/FEMUG-GO",
+      "formulario-anfitriao": "",
+      "fundador": "João Felix",
+      "moderadores": [
+        "João Felix"
+      ]
+    }],
+    "FEMUG-SC": [{
+      "capitulo": "estadual",
+      "sede": "Florianópolis, SC",
+      "url": "http://goo.gl/vwLJe9",
+      "formulario-anfitriao": "",
+      "fundador": "Diogo Moretti",
+      "moderadores": [
+        "Diogo Moretti",
+        "Pedro Nauck"
+      ]
+    }],
+    "FEMUG-AM": [{
+      "capitulo": "estadual",
+      "sede": "Manaus, AM",
+      "url": "http://j.mp/femug-am",
+      "formulario-anfitriao": "http://j.mp/femug-am-anf",
+      "fundador": "Ayrton Araújo",
+      "moderadores": [
+        "Ayrton Araújo"
+      ]
     }]
   }
 }
