@@ -57,6 +57,9 @@ Capítulo      : Estadual
 Sede          : Belo Horizonte, MG
 Responsável   : Ciro Nunes
 Moderadores   : Ciro Nunes
+		Beto Muniz
+		Erick Belfort
+		Rodolfo Dias
 ```
 -----
 ## FEMUG-GO
@@ -77,9 +80,7 @@ Capítulo      : Estadual
 Sede          : Florianópolis, SC
 Responsável   : Diogo Moretti
 Moderadores   : Diogo Moretti
-                Kauê Machado
-                Luiz Henrique Estacio
-                Fernando Daciuk
+                Pedro Nauck
 ```
 -----
 ## FEMUG-AM
