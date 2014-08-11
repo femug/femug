@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>SP Info Page</title>
+	<link href='http://fonts.googleapis.com/css?family=Exo+2:400,700,100' rel='stylesheet' type='text/css'>
+	<style>
+		/* Base */
+		/* ----------------------------------------------------------*/
+		* {
+			margin: 0;
+		  	padding: 0;
+			-webkit-box-sizing: border-box;
+			   -moz-box-sizing: border-box;
+					box-sizing: border-box;
+		}
+
+		html, body { height: 100%; }
+
+		body {
+		  font-family: Helvetica, Arial, sans-serif;
+		  color: #1a271a;
+		  font-size: 16px;
+		  line-height: 1.5;
+		  font-weight: 400;
+		  background-color: #fff;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			font-size: 100%;
+			font-weight: 600;
+			text-transform: uppercase;
+		}
+		h2 {
+			color: #7e8b8c;
+			font-size: 1.875em; /* 30/16 */
+		}
+
+		a         { color: #f7994d; text-decoration: none; }
+		a:hover   { color: #ab662e; text-decoration: underline; }
+		a:visited { color: #37ba9e; }
+
+		.wrap {
+			max-width: 820px;
+			margin: 0 auto;
+			zoom: 1;
+		}
+		section:nth-child(2) {
+			padding: 0;
+		}
+		section {
+			padding: 35px 0;
+		}
+		p {
+			margin-bottom: 20px;
+		}
+		p:last-child {
+			margin: 0;
+		}
+		input {
+			border: 0;
+		}
+		select {
+			border: 0;
+			outline: none;
+			-webkit-appearance:none;
+    		   -moz-appearance:none;
+    			    appearance:none;
+		}
+		/* Header */
+		/* ----------------------------------------------------------*/
+		header {
+			text-align: center;
+			height: 360px;
+			border-bottom: 1px solid #1a271a;
+		}
+		header h1 {
+			background-image: url("https://i.cloudup.com/hxzYM4xigg.png");
+			background-repeat: no-repeat;
+			width: 373px;
+			height: 125px;
+			text-indent: -99999px;
+			display: inline-block;
+			margin: 70px 0 50px 0;
+		}
+		header p {
+			font-size: .75em;
+			color: #f7994d;
+			letter-spacing: .5em;
+			font-weight: 700;
+		}
+		/* Part */
+		/* ----------------------------------------------------------*/
+		.part form small {
+			color: #7e8b8c;
+			display: block;
+			margin: 15px 0;
+		}
+		.part form {
+			max-width: 480px;
+			margin: 0 auto;
+			text-align: center;
+		}
+		.part form input {
+			display: block;
+		}
+		.part form div {
+			max-width: 380px;
+			margin: 0 auto;
+		}
+		.part form label {
+			color: #1d406b;
+			display: inline-block;
+			margin-bottom: 5px;
+		}
+		.part form select,
+		.part form input[type="text"],
+		.part form input[type="password"]{
+			color: #1d406b;
+			width: 100%;
+			height: 45px;
+			font-size: 1.25em;
+			padding: 0 10px;
+			text-align: center;
+			margin-bottom: 10px;
+			border-radius: 3px;
+			border: 1px solid #ccc;
+		}
+		.part form input[type="radio"] {
+			display: none;
+		}
+		.input-helper {
+		    position: relative;
+		    display: inline-block;
+		    margin: 10px 5px 20px 5px;
+		}
+		.input-helper:before {
+	        content: '';
+	        display: block;
+	        position: absolute;
+	        background-color: #fff;
+	    }
+	    .input-helper--radio {
+		    padding-left: 50px;
+		    margin: 15px 10px 0;
+		}
+		.input-helper--radio:before {
+	        top: -8px;
+	        left: 0;
+	        width: 40px;
+	        height: 40px;
+	        border-radius: 3px;
+	        border: 1px solid #ccc;
+	    }
+	    input[type="radio"] {
+		    display: none;
+		}
+		input:checked + label:before {
+	        background-color: #f7994d;
+	        border: none;
+	    }
+	    .part form input[type="submit"] {
+			width: 100%;
+			height: 50px;
+			border-radius: 3px;
+			background-color: #f7994d;
+			margin-top: 25px;
+			color: #fff;
+			text-transform: uppercase;
+			font-size: 1em;
+			cursor: pointer;
+		}
+	    .part form input[type="submit"]:hover {
+			background-color: #1a271a;
+		}
+		/* Section 0*/
+		/* ----------------------------------------------------------*/
+		.part0 div form {
+			width: 150px;
+			display: block;
+			margin: 0 auto;
+		}
+		.part0 form input,
+		.part0 form select {
+			border-radius: 0;
+			display: block;
+			background-color: #1a271a;
+			color: #fff;
+			width: 100%;
+			height: 25px;
+			text-align: center;
+			cursor: pointer;
+		}
+		/* Section 1 2 3 4 */
+		/* ----------------------------------------------------------*/
+		.part2 {
+			background-color: rgba(247,153,77,0.2);
+		}
+		.part3 {
+			background-color: rgba(55,186,158,0.2);
+		}
+		.part4 {
+			background-color: rgba(186,55,55,0.2);
+		}
+		.part4 form small {
+			width: 70%;
+			margin-bottom: 0;
+			margin-left: auto;
+    		margin-right: auto;
+		}
+		/* Footer */
+		/* ----------------------------------------------------------*/
+		footer {
+			padding: 35px 0;
+			/*background: #ccc;*/
+			text-align: center;
+		}
+		footer div {
+			display: block;
+			margin-top: 30px;
+		}
+		footer div a {
+		    display: inline-block;
+		    text-indent: -9999px;
+		    vertical-align: middle;
+		    margin-left: 25px;
+		}
+		footer div a:first-child {
+		    margin-left: 0;
+		}
+		footer div a[href*="mailman"] {
+			background-image: url("https://i.cloudup.com/DzH0dnZ7lH.jpg");
+			width: 110px;
+			height: 48px;
+		}
+		footer div a[href*="python"] {
+			background-image: url("https://i.cloudup.com/h3ynRbUOmI.png");
+			width: 110px;
+			height: 44px;
+		}
+		footer div a[href="http://www.gnu.org/"] {
+			background-image: url("https://i.cloudup.com/dNyPkYjawv.jpg");
+			width: 91px;
+			height: 86px;
+		}
+		footer div a[href*="debian"] {
+			background-image: url("https://i.cloudup.com/JFIX_PYSJT.png");
+			width: 88px;
+			height: 31px;
+		}
+		@media (max-width: 320px) {
+			body {
+			}
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<div class="wrap">
+			<h1>Femug-SP</h1>
+			<p>SP <br>-- Lista do Front-End Meet-Up Group de São Paulo --<br> https://github.com/braziljs/femug About SP</p>
+		</div>
+	</header>
+	<section class="part0">
+		<div class="wrap">
+			<div>
+				<form method="POST" action="../listinfo/sp">
+					<input type="submit" name="displang-button" value="View this page in"> 
+					<select name="language">
+						 <option value="en" selected> English (USA) </option>
+						 <option value="pt_BR"> Portuguese (Brazil) </option>
+					</select>
+				</form>
+			</div>
+		</div>
+	</section>
+	<section class="part part1">
+		<div class="wrap">
+			<h2>About SP</h2>
+			<p>
+				To see the collection of prior postings to the list, visit the <a href="http://femug.com/pipermail/sp/">SP Archives</a>.
+			</p>
+			<h2>Using SP</h2>
+			<p>
+				To post a message to all the list members, send email to <A HREF="mailto:sp@femug.com">sp@femug.com</A>. You can subscribe to the list, or change your existing subscription, in the sections below.
+			</p>
+		</div>
+	</section>
+	<section class="part part2">
+		<div class="wrap">
+			<h2>Subscribing to SP</h2>
+			<p>
+				Subscribe to SP by filling out the following form. You will be sent email requesting confirmation, to prevent others from gratuitously subscribing you. This is a private list, which means that the list of members is not available to non-members.
+			</p>
+		    <form method="POST" action="../subscribe/sp">
+		    	<div>
+		    		<label>Your email address:</label>
+			    	<input type="Text" name="email" size="30" value="">
+			    	<label>Your name (optional):</label>
+			    	<input type="Text" name="fullname" size="30" value="">		    		
+		    	</div>
+		    	<small>
+		    		You may enter a privacy password below. This provides only mild security, but should prevent others from messing with your subscription.  <strong>Do not use a valuable password</strong> as it will occasionally be emailed back to you in cleartext.
+		    	</small>
+		    	<small>
+		    		If you choose not to enter a password, one will be automatically generated for you, and it will be sent to you once you've confirmed your subscription. You can always request a mail-back of your password when you edit your personal options.
+		    	</small>
+		    	<div>
+		    		<label>Pick a password:</label>
+				    <input type="password" name="pw" size="15">
+				    <label>Reenter password to confirm:</label>
+				    <input type="password" name="pw-conf" size="15">
+				    <label>Which language do you prefer to display your messages?</label>		    
+					<select name="language">
+						<option value="en" Selected> English (USA) </option>
+						<option value="pt_BR"> Portuguese (Brazil) </option>
+					</select>
+					<label>Would you like to receive list mail batched in a daily digest?</label>
+					<input id="radio1" type="radio" name="digest" value="0" checked>
+					<label for="radio1" class="input-helper input-helper--radio">No</label>
+					<input id="radio2" type="radio" name="digest" value="1">
+					<label for="radio2" class="input-helper input-helper--radio">Yes</label>		
+					<input type="submit" name="email-button" value="subscribe">
+		    	</div>			    
+			</form>
+		</div>
+	</section>
+	<section class="part part3">
+		<div class="wrap">
+			<h2>SP Subscribers</h2>
+			<p>
+				(<i>The subscribers list is only available to the list members.</i>)<br> 
+				Enter your address and password to visit  the subscribers list:
+			</p>
+			<form method="POST" action="../roster/sp">
+				<div>
+					<label>Address:</label>
+					<input type="text" name="roster-email" size="20" value="">
+					<label>Password:</label>
+					<input type="password" name="roster-pw" size="15">
+					<input name="subscriberroster" type="submit" value="Visit Subscriber List">
+				</div>
+			</form>
+		</div>
+	</section>
+	<section class="part part4">
+		<div class="wrap">
+			<p>To unsubscribe from SP, get a password reminder, or change your subscription options enter your subscription email address:</p>
+			<form method="POST" action="../options/sp">
+				<div>
+					<input name="email" type="TEXT" value="" size="30">
+					<input name="UserOptions" type="submit" value="Unsubscribe or edit options">
+					<input name="language" type="HIDDEN" value="en">
+					<small>If you leave the field blank, you will be prompted for your email address</small>
+				</div>
+			</form>
+		</div>
+	</section>
+	<footer>
+		<address>
+			<a href="../listinfo/sp">SP</a> list run by <a href="mailto:sp-owner@femug.com">daniel at dnl.pw</a>
+			<br>
+			<a href="../admin/sp">SP administrative interface</a> (requires authorization)
+			<br>
+			<a href="../listinfo">Overview of all femug.com mailing lists</a>
+			<div>
+				<a href="http://www.gnu.org/software/mailman/index.html" title="Delivered by Mailman">Delivered by Mailman</a>
+			    <a href="http://www.python.org/" title="Python Powered">Python Powered</a>
+			    <a href="http://www.gnu.org/" title="GNU's Not Un">GNU's Not Un</a>
+			    <a href="http://www.debian.org/" title="Debian Powered">Debian Powered</a>
+			</div>
+		</address>
+	</footer>
+</body>
+</html>
