@@ -22,8 +22,8 @@ Capítulo      : Estadual
 Sede          : São Paulo, SP
 Responsável   : Daniel Filho
 Moderadores   : Daniel Filho,
-                Miller Medeiros,
-                Rafael Lyra
+                Rafael Lyra,
+                Rafael Rinaldi
 ```
 -----
 ## FEMUG-RS
@@ -34,7 +34,7 @@ Capítulo      : Estadual
 Sede          : Porto Alegre, RS
 Responsável   : Jaydson Gomes
 Moderadores   : Jaydson Gomes
-				Felipe Moura
+        Felipe Moura
                 Jean Carlo Emer
 ```
 -----
@@ -57,9 +57,9 @@ Capítulo      : Estadual
 Sede          : Belo Horizonte, MG
 Responsável   : Ciro Nunes
 Moderadores   : Ciro Nunes
-		Beto Muniz
-		Erick Belfort
-		Rodolfo Dias
+    Beto Muniz
+    Erick Belfort
+    Rodolfo Dias
 ```
 -----
 ## FEMUG-GO
