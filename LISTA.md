@@ -16,7 +16,7 @@ Moderadores   : Jaydson Gomes
 -----
 ## FEMUG-SP
 ```
-Lista         : http://bit.ly/FEMUG-SP
+Lista         : http://bit.ly/FEMUGSP
 Form Anfitrião: http://bit.ly/FEMUG-SP-ANF
 Capítulo      : Estadual
 Sede          : São Paulo, SP
