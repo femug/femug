@@ -106,3 +106,13 @@ Moderadores   : Cassio Cardoso
                 Willian Bittencourt Ribeiro
 ```
 -----
+## FEMUG-SM
+```
+Lista         : http://bit.ly/FEMUG-SM
+Form Anfitrião: http://bit.ly/FEMUG-SM-ANF
+Capítulo      : Regional
+Sede          : Santa Maria, RS
+Responsável   : Thiago Alves Luiz
+Moderadores   : Thiago Alves Luiz
+                Tonin R. Bolzan
+```
