@@ -99,6 +99,17 @@
         "Reuel Adimar Lopes",
         "Willian Bittencourt Ribeiro"
       ]
+    }],
+    "FEMUG-SM": [{
+      "capitulo": "regional",
+      "sede": "Santa Maria, RS",
+      "url": "http://bit.ly/FEMUG-SM",
+      "formulario-anfitriao": "http://bit.ly/FEMUG-SM-ANF",
+      "fundador": "Thiago Alves Luiz",
+      "moderadores": [
+        "Thiago Alves Luiz",
+        "Tonin R. Bolzan"
+      ]
     }]
   }
 }
