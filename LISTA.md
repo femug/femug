@@ -116,3 +116,13 @@ Responsável   : Thiago Alves Luiz
 Moderadores   : Thiago Alves Luiz
                 Tonin R. Bolzan
 ```
+-----
+## FEMUG-CPS
+```
+Lista         : http://goo.gl/CJC7AB
+Form Anfitrião:
+Capítulo      : Regional
+Sede          : Campinas, SP
+Responsável   : Marcio Gasparotto
+Moderadores   : Marcio Gasparotto
+```
