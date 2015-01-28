@@ -120,9 +120,10 @@ Moderadores   : Thiago Alves Luiz
 ## FEMUG-CPS
 ```
 Lista         : http://goo.gl/CJC7AB
-Form Anfitrião:
+Form Anfitrião: https://mgasparotto.typeform.com/to/IkSESu
 Capítulo      : Regional
 Sede          : Campinas, SP
 Responsável   : Marcio Gasparotto
 Moderadores   : Marcio Gasparotto
+                Lucas Frizzo
 ```
