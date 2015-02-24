@@ -128,7 +128,7 @@ Moderadores   : Marcio Gasparotto
                 Lucas Frizzo
 ```
 -----
-## FEMUG-LINHARES
+## FEMUG-LI
 ```
 Lista         : http://bit.ly/1Fo0bI5
 Form Anfitrião: 
