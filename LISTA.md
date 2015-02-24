@@ -127,3 +127,14 @@ Responsável   : Marcio Gasparotto
 Moderadores   : Marcio Gasparotto
                 Lucas Frizzo
 ```
+-----
+## FEMUG-LINHARES
+```
+Lista         : http://bit.ly/1Fo0bI5
+Form Anfitrião: 
+Capítulo      : Regional
+Sede          : Linhares, ES
+Responsável   : Lucas Valhos
+Moderadores   : Lucas Valhos
+                Leonan Luppi
+```
