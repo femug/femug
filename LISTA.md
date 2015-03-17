@@ -138,3 +138,13 @@ Responsável   : Lucas Valhos
 Moderadores   : Lucas Valhos
                 Leonan Luppi
 ```
+-----
+## FEMUG-DF
+```
+Lista         : http://goo.gl/QTcfak
+Form Anfitrião: 
+Capítulo      : Estadual
+Sede          : Brasília, DF
+Responsável   : Leandro Ferreira
+Moderadores   : Leandro Ferreira
+```
