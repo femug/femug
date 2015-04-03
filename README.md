@@ -1,5 +1,7 @@
 # FEMUG - Instruções
 
+[![Join the chat at https://gitter.im/braziljs/femug](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/braziljs/femug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > **Mantenedor:** [Daniel Filho](https://github.com/danielfilho)
 
 ## O que é FEMUG
