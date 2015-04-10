@@ -158,4 +158,6 @@ Capítulo      : Estadual
 Sede          : Maceió, AL
 Responsável   : Juarez Filho
 Moderadores   : Juarez Filho
+                Tiago Cedrim
+```
 ```
