@@ -149,3 +149,13 @@ Responsável   : Leandro Ferreira
 Moderadores   : Leandro Ferreira
                 Joilson Marques
 ```
+-----
+## FEMUG-AL
+```
+Lista         : http://meetup.com/FEMUG-AL
+Form Anfitrião: 
+Capítulo      : Estadual
+Sede          : Maceió, AL
+Responsável   : Juarez Filho
+Moderadores   : Juarez Filho
+```

@@ -143,6 +143,16 @@
         "Leandro Ferreira",
         "Joilson Marques"
       ]
+    }],
+    "FEMUG-AL": [{
+      "capitulo": "estadual",
+      "sede": "Maceió, AL",
+      "url": "http://meetup.com/FEMUG-AL",
+      "formulario-anfitriao": "",
+      "fundador": "Juarez Filho",
+      "moderadores": [
+        "Juarez Filho"
+      ]
     }]
   }
 }
