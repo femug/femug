@@ -163,7 +163,7 @@ Moderadores   : Juarez Filho
 -----
 ## FEMUG-MA
 ```
-Lista         : http://meetup.com/FEMUG-MA
+Lista         : https://goo.gl/zJH9K0
 Form Anfitrião: 
 Capítulo      : Estadual
 Sede          : São Luis, MA
