@@ -154,6 +154,17 @@
         "Juarez Filho",
         "Tiago Cedrim"
       ]
+    }],
+    "FEMUG-MA": [{
+      "capitulo": "estadual",
+      "sede": "São Luis, MA",
+      "url": "https://goo.gl/zJH9K0",
+      "formulario-anfitriao": "",
+      "fundador": "Nanderson Castro",
+      "moderadores": [
+        "Nanderson Castro",
+        "Junior Lima"
+      ]
     }]
   }
 }

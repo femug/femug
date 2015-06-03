@@ -160,4 +160,16 @@ Responsável   : Juarez Filho
 Moderadores   : Juarez Filho
                 Tiago Cedrim
 ```
+-----
+## FEMUG-MA
+```
+Lista         : https://goo.gl/zJH9K0
+Form Anfitrião: 
+Capítulo      : Estadual
+Sede          : São Luis, MA
+Responsável   : Nanderson Castro
+Moderadores   : Nanderson Castro
+                Junior Lima
+                
+```
 ```
