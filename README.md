@@ -76,7 +76,7 @@ Os campos exigidos geralmente são:
 
 **IMPORTANTE**: Para a empresa anfitriã, envie APENAS o nome do participante e o documento, quando necessário. A privacidade dos participantes é algo que devemos zelar por obrigação, e como procedimento padrão.
 
-Ainda, caso  a empresa tenha fornecido o espaço livre de custos, e faz questão de ter a lista de e-mail de todos que participaram, a mesma deve ficar explícita para cada participante que seu e-mail será compartilhado e, fazendo a inscrição este concorda com o este termo.
+Ainda, caso  a empresa tenha fornecido o espaço livre de custos, e faz questão de ter a lista de e-mail de todos que participaram, a mesma deve ficar explícita para cada participante que seu e-mail será compartilhado e, fazendo a inscrição, o participante concorda com este termo.
 
 
 ![Os sete passos da execução de uma reunião do FEMUG](http://i.imgur.com/3b5eomV.png)
