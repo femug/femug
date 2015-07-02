@@ -172,4 +172,16 @@ Moderadores   : Nanderson Castro
                 Junior Lima
                 
 ```
+-----
+## FEMUG-PE
 ```
+Lista         : https://groups.google.com/forum/#!forum/femug-pe
+Form Anfitrião: https://bit.ly/FEMUG-PE-ANF 
+Capítulo      : Estadual
+Sede          : Recife, PE
+Responsável   : Joselito Júnior
+Moderadores   : Joselito Júnior
+                Clóvis Neto
+                Jeftár Mascarenhas
+```
+-----
