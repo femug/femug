@@ -1,181 +1,181 @@
 {
-    "femug": {
-        "FEMUG-BR": [{
-            "capitulo": "nacional",
-            "sede": "Brasil",
-            "regiao": "Brasil",
-            "url": "http://bit.ly/FEMUG-BR",
-            "fundador": "Daniel Filho",
-            "moderadores": [
+  "femug": {
+    "FEMUG-BR": [{
+      "capitulo": "nacional",
+      "sede": "Brasil",
+      "regiao": "Brasil",
+      "url": "http://bit.ly/FEMUG-BR",
+      "fundador": "Daniel Filho",
+      "moderadores": [
         "Jaydson Gomes",
         "Felipe Nascimento"
       ]
     }],
-        "FEMUG-SP": [{
-            "capitulo": "estadual",
-            "sede": "São Paulo, SP",
-            "url": "http://bit.ly/FEMUG-SP",
-            "formulario-anfitriao": "http://bit.ly/FEMUG-SP-ANF",
-            "fundador": "Daniel Filho",
-            "moderadores": [
+    "FEMUG-SP": [{
+      "capitulo": "estadual",
+      "sede": "São Paulo, SP",
+      "url": "http://bit.ly/FEMUG-SP",
+      "formulario-anfitriao": "http://bit.ly/FEMUG-SP-ANF",
+      "fundador": "Daniel Filho",
+      "moderadores": [
         "Daniel Filho",
         "Miller Medeiros",
         "Rafael Lyra"
       ]
     }],
-        "FEMUG-RS": [{
-            "capitulo": "estadual",
-            "sede": "Porto Alegre, RS",
-            "url": "http://goo.gl/RDWFlf",
-            "formulario-anfitriao": "",
-            "fundador": "Jaydson Gomes",
-            "moderadores": [
+    "FEMUG-RS": [{
+      "capitulo": "estadual",
+      "sede": "Porto Alegre, RS",
+      "url": "http://goo.gl/RDWFlf",
+      "formulario-anfitriao": "",
+      "fundador": "Jaydson Gomes",
+      "moderadores": [
         "Jaydson Gomes",
         "Felipe Moura",
         "Jean Carlo Emer"
       ]
     }],
-        "FEMUG-CE": [{
-            "capitulo": "estadual",
-            "sede": "Fortaleza, CE",
-            "url": "http://bit.ly/FEMUG-CE",
-            "formulario-anfitriao": "",
-            "fundador": "Daniel Castro",
-            "moderadores": [
+    "FEMUG-CE": [{
+      "capitulo": "estadual",
+      "sede": "Fortaleza, CE",
+      "url": "http://bit.ly/FEMUG-CE",
+      "formulario-anfitriao": "",
+      "fundador": "Daniel Castro",
+      "moderadores": [
         "Daniel Castro",
         "Elias de Oliveira"
       ]
     }],
-        "FEMUG-MG": [{
-            "capitulo": "estadual",
-            "sede": "Belo Horizonte, MG",
-            "url": "http://cnun.es/K0eUm6",
-            "formulario-anfitriao": "",
-            "fundador": "Ciro Nunes",
-            "moderadores": [
+    "FEMUG-MG": [{
+      "capitulo": "estadual",
+      "sede": "Belo Horizonte, MG",
+      "url": "http://cnun.es/K0eUm6",
+      "formulario-anfitriao": "",
+      "fundador": "Ciro Nunes",
+      "moderadores": [
         "Ciro Nunes"
       ]
     }],
-        "FEMUG-GO": [{
-            "capitulo": "estadual",
-            "sede": "Goiânia, GO",
-            "url": "http://bit.ly/FEMUG-GO",
-            "formulario-anfitriao": "",
-            "fundador": "João Felix",
-            "moderadores": [
+    "FEMUG-GO": [{
+      "capitulo": "estadual",
+      "sede": "Goiânia, GO",
+      "url": "http://bit.ly/FEMUG-GO",
+      "formulario-anfitriao": "",
+      "fundador": "João Felix",
+      "moderadores": [
         "João Felix"
       ]
     }],
-        "FEMUG-SC": [{
-            "capitulo": "estadual",
-            "sede": "Florianópolis, SC",
-            "url": "http://goo.gl/vwLJe9",
-            "formulario-anfitriao": "",
-            "fundador": "Diogo Moretti",
-            "moderadores": [
+    "FEMUG-SC": [{
+      "capitulo": "estadual",
+      "sede": "Florianópolis, SC",
+      "url": "http://goo.gl/vwLJe9",
+      "formulario-anfitriao": "",
+      "fundador": "Diogo Moretti",
+      "moderadores": [
         "Diogo Moretti",
         "Pedro Nauck"
       ]
     }],
-        "FEMUG-AM": [{
-            "capitulo": "estadual",
-            "sede": "Manaus, AM",
-            "url": "http://j.mp/femug-am",
-            "formulario-anfitriao": "http://j.mp/femug-am-anf",
-            "fundador": "Ayrton Araújo",
-            "moderadores": [
+    "FEMUG-AM": [{
+      "capitulo": "estadual",
+      "sede": "Manaus, AM",
+      "url": "http://j.mp/femug-am",
+      "formulario-anfitriao": "http://j.mp/femug-am-anf",
+      "fundador": "Ayrton Araújo",
+      "moderadores": [
         "Ayrton Araújo"
       ]
     }],
-        "FEMUG-VALE-DO-PARAÍBA": [{
-            "capitulo": "regional",
-            "sede": "São José dos Campos, SP",
-            "url": "http://j.mp/femug-vale",
-            "formulario-anfitriao": "",
-            "fundador": "Cassio Cardoso",
-            "moderadores": [
+    "FEMUG-VALE-DO-PARAÍBA":[{
+      "capitulo":"regional",
+      "sede":"São José dos Campos, SP",
+      "url":"http://j.mp/femug-vale",
+      "formulario-anfitriao":"",
+      "fundador":"Cassio Cardoso",
+      "moderadores":[
         "Cassio Cardoso",
         "Eduardo Rabelo",
         "Reuel Adimar Lopes",
         "Willian Bittencourt Ribeiro"
       ]
     }],
-        "FEMUG-SM": [{
-            "capitulo": "regional",
-            "sede": "Santa Maria, RS",
-            "url": "http://bit.ly/FEMUG-SM",
-            "formulario-anfitriao": "http://bit.ly/FEMUG-SM-ANF",
-            "fundador": "Thiago Alves Luiz",
-            "moderadores": [
+    "FEMUG-SM": [{
+      "capitulo": "regional",
+      "sede": "Santa Maria, RS",
+      "url": "http://bit.ly/FEMUG-SM",
+      "formulario-anfitriao": "http://bit.ly/FEMUG-SM-ANF",
+      "fundador": "Thiago Alves Luiz",
+      "moderadores": [
         "Thiago Alves Luiz",
         "Tonin R. Bolzan"
       ]
     }],
-        "FEMUG-CPS": [{
-            "capitulo": "regional",
-            "sede": "Campinas, SP",
-            "url": "http://goo.gl/CJC7AB",
-            "formulario-anfitriao": "https://mgasparotto.typeform.com/to/IkSESu",
-            "fundador": "Marcio Gasparotto",
-            "moderadores": [
+    "FEMUG-CPS": [{
+      "capitulo": "regional",
+      "sede": "Campinas, SP",
+      "url": "http://goo.gl/CJC7AB",
+      "formulario-anfitriao": "https://mgasparotto.typeform.com/to/IkSESu",
+      "fundador": "Marcio Gasparotto",
+      "moderadores": [
         "Marcio Gasparotto",
         "Lucas Frizzo"
       ]
     }],
-        "FEMUG-LI": [{
-            "capitulo": "regional",
-            "sede": "Linhares, ES",
-            "url": "http://bit.ly/1Fo0bI5",
-            "formulario-anfitriao": "",
-            "fundador": "Lucas Valhos",
-            "moderadores": [
+    "FEMUG-LI": [{
+      "capitulo": "regional",
+      "sede": "Linhares, ES",
+      "url": "http://bit.ly/1Fo0bI5",
+      "formulario-anfitriao": "",
+      "fundador": "Lucas Valhos",
+      "moderadores": [
         "Lucas Valhos",
         "Leonan Luppi"
       ]
     }],
-        "FEMUG-DF": [{
-            "capitulo": "estadual",
-            "sede": "Brasília, DF",
-            "url": "http://goo.gl/QTcfak",
-            "formulario-anfitriao": "",
-            "fundador": "Leandro Ferreira",
-            "moderadores": [
+    "FEMUG-DF": [{
+      "capitulo": "estadual",
+      "sede": "Brasília, DF",
+      "url": "http://goo.gl/QTcfak",
+      "formulario-anfitriao": "",
+      "fundador": "Leandro Ferreira",
+      "moderadores": [
         "Leandro Ferreira",
         "Joilson Marques"
       ]
     }],
-        "FEMUG-AL": [{
-            "capitulo": "estadual",
-            "sede": "Maceió, AL",
-            "url": "http://meetup.com/FEMUG-AL",
-            "formulario-anfitriao": "",
-            "fundador": "Juarez Filho",
-            "moderadores": [
+    "FEMUG-AL": [{
+      "capitulo": "estadual",
+      "sede": "Maceió, AL",
+      "url": "http://meetup.com/FEMUG-AL",
+      "formulario-anfitriao": "",
+      "fundador": "Juarez Filho",
+      "moderadores": [
         "Juarez Filho",
         "Tiago Cedrim"
       ]
     }],
-        "FEMUG-MA": [{
-            "capitulo": "estadual",
-            "sede": "São Luis, MA",
-            "url": "https://goo.gl/zJH9K0",
-            "formulario-anfitriao": "",
-            "fundador": "Nanderson Castro",
-            "moderadores": [
+    "FEMUG-MA": [{
+      "capitulo": "estadual",
+      "sede": "São Luis, MA",
+      "url": "https://goo.gl/zJH9K0",
+      "formulario-anfitriao": "",
+      "fundador": "Nanderson Castro",
+      "moderadores": [
         "Nanderson Castro",
         "Junior Lima"
       ]
     }],
-        "FEMUG-PE": [{
-            "capitulo": "estadual",
-            "sede": "Recife, PE",
-            "url": "https://groups.google.com/forum/#!forum/femug-pe",
-            "formulario-anfitriao": "https://bit.ly/FEMUG-PE-ANF",
-            "fundador": "Joselito Júnior",
-            "moderadores": [
+    "FEMUG-PE": [{
+      "capitulo": "estadual",
+      "sede": "Recife, PE",
+      "url": "https://groups.google.com/forum/#!forum/femug-pe",
+      "formulario-anfitriao": "",
+      "fundador": "Joselito Júnior",
+      "moderadores": [
         "Clóvis Neto",
         "Jeftár Mascarenhas"
       ]
     }]
-    }
+  }
 }
