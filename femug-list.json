@@ -154,6 +154,17 @@
         "Juarez Filho",
         "Tiago Cedrim"
       ]
+    }],
+    "FEMUG-REC": [{
+      "capitulo": "regional",
+      "sede": "Recife, PE",
+      "url": "http://bit.ly/femugrec",
+      "formulario-anfitriao": "",
+      "fundador": "Bruno Lima",
+      "moderadores": [
+        "Bruno Lima",
+        "Francisco Marinho"
+      ]
     }]
   }
 }
