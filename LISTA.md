@@ -131,7 +131,7 @@ Moderadores   : Marcio Gasparotto
 ## FEMUG-LI
 ```
 Lista         : http://bit.ly/1Fo0bI5
-Form Anfitrião: 
+Form Anfitrião:
 Capítulo      : Regional
 Sede          : Linhares, ES
 Responsável   : Lucas Valhos
@@ -142,7 +142,7 @@ Moderadores   : Lucas Valhos
 ## FEMUG-DF
 ```
 Lista         : http://goo.gl/QTcfak
-Form Anfitrião: 
+Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Brasília, DF
 Responsável   : Leandro Ferreira
@@ -153,7 +153,7 @@ Moderadores   : Leandro Ferreira
 ## FEMUG-AL
 ```
 Lista         : http://meetup.com/FEMUG-AL
-Form Anfitrião: 
+Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Maceió, AL
 Responsável   : Juarez Filho
@@ -164,24 +164,34 @@ Moderadores   : Juarez Filho
 ## FEMUG-MA
 ```
 Lista         : https://goo.gl/zJH9K0
-Form Anfitrião: 
+Form Anfitrião:
 Capítulo      : Estadual
 Sede          : São Luis, MA
 Responsável   : Nanderson Castro
 Moderadores   : Nanderson Castro
                 Junior Lima
-                
+
 ```
 -----
 ## FEMUG-PE
 ```
 Lista         : https://groups.google.com/forum/#!forum/femug-pe
-Form Anfitrião: https://bit.ly/FEMUG-PE-ANF 
+Form Anfitrião: https://bit.ly/FEMUG-PE-ANF
 Capítulo      : Estadual
 Sede          : Recife, PE
 Responsável   : Joselito Júnior
 Moderadores   : Joselito Júnior
                 Clóvis Neto
                 Jeftár Mascarenhas
+```
+-----
+## FEMUG-ABC
+```
+Lista         : https://goo.gl/jvfyUb
+Form Anfitrião:  
+Capítulo      : Regional
+Sede          : São Bernardo do Campo, SP
+Responsável   : William de OLiveira Souza
+Moderadores   : William de OLiveira Souza
 ```
 -----
