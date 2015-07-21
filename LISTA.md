@@ -193,5 +193,7 @@ Capítulo      : Regional
 Sede          : São Bernardo do Campo, SP
 Responsável   : William de OLiveira Souza
 Moderadores   : William de OLiveira Souza
+                Danilo Vitoriano
+                Marcus Vinicius (Marquinhus) 
 ```
 -----
