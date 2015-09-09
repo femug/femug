@@ -209,3 +209,15 @@ Moderadores   : Henri Cavalcante
                 Emmerson Siqueira
 ```
 -----
+## FEMUG-RJ
+```
+Lista         : https://goo.gl/jvfyUb
+Form Anfitrião:  
+Capítulo      : Regional
+Sede          : Rio de Janeiro, RJ
+Responsável   : Raphael Amorim
+Moderadores   : Raphael Amorim
+                Richard Duchatsch Johansen
+                Afonso Pacifer
+```
+-----
