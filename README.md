@@ -12,6 +12,10 @@ O evento **NÃO** pode visar o lucro de um ou mais organizadores. É igualmente 
 
 Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias periféricas relacionadas.
 
+## Código de Conduta
+
+É importante destacar que o FEMUG (e todos os capítulos) contam com um Código de Conduta. O mesmo DEVE ser levado a sério por membros, moderadores e adminitradores dos encontros, levando em consideração sempre o bem estar e ambiente inclusivo e diverso que visamos ter.
+
 ## A escolha do nome
 
 Por se tratar de um grupo de encontros marcados pela regionalidade e proximidade, é interessante utilizar uma nomenclatura que remeta o local de onde será feito o mesmo.
