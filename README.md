@@ -14,7 +14,7 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 
 ## Código de Conduta
 
-É importante destacar que o FEMUG (e todos os capítulos) contam com um Código de Conduta. O mesmo DEVE ser levado a sério por membros, moderadores e adminitradores dos encontros, levando em consideração sempre o bem estar e ambiente inclusivo e diverso que visamos ter.
+É importante destacar que o FEMUG (e todos os capítulos) contam com um [Código de Conduta](https://github.com/fnando/Codigo-De-Conduta). O mesmo DEVE ser levado a sério por membros, moderadores e adminitradores dos encontros, levando em consideração sempre o bem estar e ambiente inclusivo e diverso que visamos ter.
 
 ## A escolha do nome
 
