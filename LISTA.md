@@ -98,7 +98,7 @@ Moderadores   : Ayrton Araújo
 Lista         : http://j.mp/femug-vale
 Form Anfitrião:
 Capítulo      : Regional
-Sede          : São José dos Campos, SP
+Sede          : São José dos Campos, SPlogotipo/logos/FEMUG-CWB.svg
 Responsável   : Eduardo Rabelo
 Moderadores   : Cassio Cardoso
                 Eduardo Rabelo
@@ -208,5 +208,17 @@ Responsável   : Raphael Amorim
 Moderadores   : Raphael Amorim
                 Richard Duchatsch Johansen
                 Afonso Pacifer
+```
+-----
+## FEMUG-CWB
+```
+Lista         : http://bit.ly/1KOES4M
+Form Anfitrião:
+Capítulo      : Regional
+Sede          : Curitiba, PR
+Responsável   : Fernando Moreira
+Moderadores   : Fernando Moreira
+                Tersis Zonato
+                Renan de Azevedo
 ```
 -----
