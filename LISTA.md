@@ -98,7 +98,7 @@ Moderadores   : Ayrton Araújo
 Lista         : http://j.mp/femug-vale
 Form Anfitrião:
 Capítulo      : Regional
-Sede          : São José dos Campos, SPlogotipo/logos/FEMUG-CWB.svg
+Sede          : São José dos Campos, SP
 Responsável   : Eduardo Rabelo
 Moderadores   : Cassio Cardoso
                 Eduardo Rabelo
