@@ -210,3 +210,15 @@ Moderadores   : Raphael Amorim
                 Afonso Pacifer
 ```
 -----
+## FEMUG-CWB
+```
+Lista         : http://bit.ly/1KOES4M
+Form Anfitrião:
+Capítulo      : Regional
+Sede          : Curitiba, PR
+Responsável   : Fernando Moreira
+Moderadores   : Fernando Moreira
+                Tersis Zonato
+                Renan de Azevedo
+```
+-----
