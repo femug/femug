@@ -198,6 +198,17 @@ Moderadores   : William de OLiveira Souza
                 Felipe Uliana (Brutinhos)
 ```
 -----
+## FEMUG-RN
+```
+Lista         : http://www.meetup.com/FEMUG-RN/
+Form Anfitrião:  
+Capítulo      : Regional
+Sede          : Natal, RN
+Responsável   : Henri Cavalcante
+Moderadores   : Henri Cavalcante
+                Emmerson Siqueira
+```
+-----
 ## FEMUG-RJ
 ```
 Lista         : https://goo.gl/jvfyUb
