@@ -200,7 +200,7 @@ Moderadores   : William de OLiveira Souza
 -----
 ## FEMUG-RJ
 ```
-Lista         : https://goo.gl/jvfyUb
+Lista         : http://bit.ly/1Ulw0xh
 Form Anfitrião:  
 Capítulo      : Regional
 Sede          : Rio de Janeiro, RJ
