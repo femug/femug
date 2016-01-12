@@ -22,7 +22,7 @@ Capítulo      : Estadual
 Sede          : São Paulo, SP
 Responsável   : Daniel Filho
 Moderadores   : Daniel Filho,
-                Rafael Lyra,
+                Lucas Mazza,
                 Rafael Rinaldi
 ```
 -----
@@ -188,7 +188,7 @@ Moderadores   : Joselito Júnior
 ## FEMUG-ABC
 ```
 Lista         : https://goo.gl/jvfyUb
-Form Anfitrião:  
+Form Anfitrião:
 Capítulo      : Regional
 Sede          : São Bernardo do Campo, SP
 Responsável   : William de OLiveira Souza
@@ -201,7 +201,7 @@ Moderadores   : William de OLiveira Souza
 ## FEMUG-RJ
 ```
 Lista         : http://bit.ly/1Ulw0xh
-Form Anfitrião:  
+Form Anfitrião:
 Capítulo      : Regional
 Sede          : Rio de Janeiro, RJ
 Responsável   : Raphael Amorim
