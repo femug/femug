@@ -1,8 +1,5 @@
 # FEMUG - Instruções
 
-[![Join the chat at https://gitter.im/braziljs/femug](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/braziljs/femug?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-> **Mantenedor:** [Daniel Filho](https://github.com/danielfilho)
 
 ## O que é FEMUG
 
@@ -26,7 +23,7 @@ Caso seja criado um grupo para todo o estado, o mesmo deverá ter como sede a ca
 
 ## Formato
 
-1. O encontro deve contar com um meio comum de comunicação, sendo este uma lista de e-mails. Por esta lista de e-mails é feito toda a comunicação de novos eventos, anúncios relevantes, interação entre os membros, envio da [ata](https://github.com/braziljs/femug/blob/master/README.md#ata-do-encontro) e demais assuntos e dúvidas pertinentes.
+1. O encontro deve contar com um meio comum de comunicação, sendo este uma lista de e-mails. Por esta lista de e-mails é feito toda a comunicação de novos eventos, anúncios relevantes, interação entre os membros, envio da [ata](https://github.com/femug/femug/blob/master/README.md#ata-do-encontro) e demais assuntos e dúvidas pertinentes.
 2. A lista de e-mail deve ter uma média de três a quatro managers para cada cem pessoas. A função desses managers é basicamente manter os bons modos e um fluxo coeso de novos membros, aprovando sua entrada, julgando ponderadamente a chance de excluir alguém da lista, caso haja intenção de propaganda indesejada, insistência em tópicos delicados ou falta de respeito de qualquer forma, com um ou mais membros.
 3. O conteúdo da lista deve ser aberto, e jamais fechado para que todos os interessados possam ler e consumir o conteúdo da lista, porém a mesma pode ser moderada para a entrada de novos membros, evitando assim *spammers*, *flooders* e afins.
 4. O encontro deve ter a periodicidade que o grupo decidir necessária, sendo semanal, quinzenal, mensal ou acontecer apenas quando todos os membros chegarem a um acordo.
@@ -70,7 +67,7 @@ Quando existe a possiblidade de algum especialista em um assunto atender ao enco
 
 ### Controle de participantes
 
-Recomendamos o uso da plataforma [Eventick](http://www.eventick.com.br/), que é parceira da [fundação BrazilJS](http://braziljs.org) e permite o cadastro de novos eventos gratuitamente, desde que não seja cobrada a entrada (o que é o caso do FEMUG).
+Recomendamos o uso da plataforma [Eventick](http://www.eventick.com.br/), que permite o cadastro de novos eventos gratuitamente, desde que não seja cobrada a entrada (o que é o caso do FEMUG).
 
 Os campos exigidos geralmente são:
 
@@ -89,9 +86,9 @@ Este documento foi criado em cima da experiência adquirida na organização do 
 
 ### Como criar um FEMUG?
 
-Primeiro, leia este documento até o final (no mínimo) duas vezes. Quando terminar, leia o arquivo [CONTRIBUTING.md](https://github.com/braziljs/femug/blob/master/CONTRIBUTING.md); nele, encontrará informações de como contribuir. Depois, clone este repositório, altere os arquivos [LISTA.md](https://github.com/braziljs/femug/blob/master/LISTA.md) e [femug-list.json](https://github.com/braziljs/femug/blob/master/femug-list.json) com as informações do FEMUG que pretende inaugurar.
+Primeiro, leia este documento até o final (no mínimo) duas vezes. Quando terminar, leia o arquivo [CONTRIBUTING.md](https://github.com/femug/femug/blob/master/CONTRIBUTING.md); nele, encontrará informações de como contribuir. Depois, clone este repositório, altere os arquivos [LISTA.md](https://github.com/femug/femug/blob/master/LISTA.md) e [femug-list.json](https://github.com/femug/femug/blob/master/femug-list.json) com as informações do FEMUG que pretende inaugurar.
 
-Este irá para avaliação do pessoal da Fundação BrazilJS e entraremos em contato contigo, assim que todas as informações forem aprovadas.
+Este irá para avaliação do pessoal do FEMUG e então entraremos em contato, assim que todas as informações forem aprovadas.
 
 O aceite de seu capítulo será feito pelo *merge* de seu *pull request* no repositório do projeto. As discussões, recusas ou aprovações serão feitas nos comentários do *pull request*, de forma aberta para todos os interessados.
 
@@ -124,7 +121,7 @@ Uma vez que uma empresa concorde em ceder um espaço, geralmente a mesma costuma
 
 ## Índice FEMUG
 
-Antes de criar um novo FEMUG, confira se já existe um em sua cidade no [índice FEMUG](http://github.com/braziljs/femug/blob/master/LISTA.md). Caso exista, junte-se a ele, não crie um novo. As comunidades devem se unir, e não capilarizar. Acredito que uma cidade é um bom delimitador para não crescermos desorganizadamente.
+Antes de criar um novo FEMUG, confira se já existe um em sua cidade no [índice FEMUG](http://github.com/femug/femug/blob/master/LISTA.md). Caso exista, junte-se a ele, não crie um novo. As comunidades devem se unir, e não capilarizar. Acredito que uma cidade é um bom delimitador para não crescermos desorganizadamente.
 
 Abaixo, um exemplo de como preencher o índice.
 
