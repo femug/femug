@@ -217,9 +217,10 @@ Form Anfitrião:
 Capítulo      : Regional
 Sede          : Curitiba, PR
 Responsável   : Fernando Moreira
-Moderadores   : Fernando Moreira
-                Tersis Zonato
-                Renan de Azevedo
+Moderadores   : Celso Fabri
+                Cezar Luiz
+                Lídia Freitas
+                Matheus Vieira
 ```
 -----
 ## FEMUG-MGA
