@@ -234,3 +234,16 @@ Moderadores   : Guilherme Bayer
                 Renan Pimentel
 ```
 -----
+## FEMUG-JLLE
+```
+Lista         : http://bit.ly/1T5Ukyt
+Form Anfitrião:
+Capítulo      : Regional
+Sede          : Joinville, SC
+Responsável   : Matheus Poleza
+Moderadores   : Matheus Poleza
+                Fernando Daciuk
+                Guilherme Berghauser
+
+```
+-----

@@ -224,6 +224,18 @@
         "Guilherme Bayer",
         "Renan Pimentel"
       ]
-    }]
+    }],
+    "FEMUG-JLLE": [{
+      "capitulo": "regional",
+      "sede": "Joinville, SC",
+      "url": "http://bit.ly/1T5Ukyt",
+      "formulario-anfitriao": "",
+      "fundador": "Matheus Poleza",
+      "moderadores": [
+        "Matheus Poleza",
+        "Fernando Daciuk",
+        "Guilherme Berghauser"
+      ]
+    }],
   }
 }
