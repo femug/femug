@@ -94,7 +94,7 @@ Para isso, é disponibilizado um arquivo no formato [`.svg`](https://github.com/
 
 **IMPORTANTE**
 
-É importante que todas as proporções, tamanhos e cores sejam mantidas, alterando APENAS a sigla, com o mínimo de ajustes em posicionamento possível.
+É importante que todas as proporções, tamanhos e cores sejam mantidas, alterando APENAS a sigla, com o mínimo de ajustes em posicionamento possível. Você precisa manter também a tipografia, e transformar o logotipo em curvas, pra depois exportar o `svg`.
 
 Este irá para avaliação do pessoal do FEMUG e então entraremos em contato, assim que todas as informações forem aprovadas.
 
