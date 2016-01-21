@@ -236,7 +236,7 @@ Moderadores   : Guilherme Bayer
 -----
 ## FEMUG-JLLE
 ```
-Lista         : http://bit.ly/1T5Ukyt
+Lista         : http://bit.ly/1OA8fM5
 Form Anfitrião:
 Capítulo      : Regional
 Sede          : Joinville, SC
