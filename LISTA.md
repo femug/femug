@@ -117,17 +117,6 @@ Moderadores   : Thiago Alves Luiz
                 Tonin R. Bolzan
 ```
 -----
-## FEMUG-CPS
-```
-Lista         : http://goo.gl/CJC7AB
-Form Anfitrião: https://mgasparotto.typeform.com/to/IkSESu
-Capítulo      : Regional
-Sede          : Campinas, SP
-Responsável   : Marcio Gasparotto
-Moderadores   : Marcio Gasparotto
-                Lucas Frizzo
-```
------
 ## FEMUG-LI
 ```
 Lista         : http://bit.ly/1Fo0bI5
