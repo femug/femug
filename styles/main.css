@@ -1,0 +1,35 @@
+body {
+  box-sizing: border-box;
+  padding: 10px 20px;
+}
+
+.main {
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.femugs > li {
+  display: inline-block;
+  padding: 10px 20px;
+  width: 250px;
+  height: auto;
+  vertical-align: top;
+  margin: 0px 20px 20px 0px;
+  overflow: hidden;
+  background: #f1f1f1;
+  text-align: left;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+.femugs .name {
+  margin-bottom: 5px;
+}
+.femugs .location {
+  margin-top: 0;
+  font-weight: normal;
+  color: rgb(102, 102, 102);
+}
