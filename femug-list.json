@@ -1,16 +1,5 @@
 {
   "femug": {
-    "FEMUG-BR": [{
-      "capitulo": "nacional",
-      "sede": "Brasil",
-      "regiao": "Brasil",
-      "url": "http://bit.ly/FEMUG-BR",
-      "fundador": "Daniel Filho",
-      "moderadores": [
-        "Jaydson Gomes",
-        "Felipe Nascimento"
-      ]
-    }],
     "FEMUG-SP": [{
       "capitulo": "estadual",
       "sede": "São Paulo, SP",
@@ -20,7 +9,7 @@
       "moderadores": [
         "Daniel Filho",
         "Lucas Mazza",
-        "Rafael Rinaldi"
+        "Marcel dos Santos"
       ]
     }],
     "FEMUG-RS": [{
