@@ -152,7 +152,7 @@ Moderadores   : Nanderson Castro
 -----
 ## FEMUG-PE
 ```
-Lista         : https://groups.google.com/forum/#!forum/femug-pe
+Lista         : http://meetup.com/FEMUG-PE/
 Form Anfitrião: https://bit.ly/FEMUG-PE-ANF
 Capítulo      : Estadual
 Sede          : Recife, PE
