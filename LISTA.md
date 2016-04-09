@@ -211,3 +211,15 @@ Moderadores   : Matheus Poleza
 
 ```
 -----
+## FEMUG-BA
+```
+Lista         : http://bit.ly/20qH9fr
+Form Anfitrião:
+Capítulo      : Regional
+Sede          : Salvador, BA
+Responsável   : Jader Gomes
+Moderadores   : Jader Gomes
+                Marcus Silva
+
+```
+-----
