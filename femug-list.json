@@ -1,205 +1,278 @@
 {
-  "femug": {
-    "FEMUG-SP": [{
-      "capitulo": "estadual",
-      "sede": "São Paulo, SP",
+  "femug": [
+    { "name": "FEMUG-SP",
+      "chapter": "estadual",
+      "host_city": "São Paulo, SP",
+      "geo": {
+        "lat": "-23.5505199",
+        "lng": "-46.63330939999997"
+        },
       "url": "http://bit.ly/FEMUG-SP",
-      "formulario-anfitriao": "http://bit.ly/FEMUG-SP-ANF",
-      "fundador": "Daniel Filho",
-      "moderadores": [
+      "host_form": "http://bit.ly/FEMUG-SP-ANF",
+      "founder": "Daniel Filho",
+      "moderators": [
         "Daniel Filho",
         "Lucas Mazza",
         "Marcel dos Santos"
       ]
-    }],
-    "FEMUG-RS": [{
-      "capitulo": "estadual",
-      "sede": "Porto Alegre, RS",
+    },
+    { "name": "FEMUG-RS",
+      "chapter": "estadual",
+      "host_city": "Porto Alegre, RS",
+      "geo": {
+        "lat": "-30.0346471",
+        "lng": "-51.217658400000005"
+        },
       "url": "http://goo.gl/RDWFlf",
-      "formulario-anfitriao": "",
-      "fundador": "Jaydson Gomes",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Jaydson Gomes",
+      "moderators": [
         "Jaydson Gomes",
         "Felipe Moura",
         "Jean Carlo Emer"
       ]
-    }],
-    "FEMUG-CE": [{
-      "capitulo": "estadual",
-      "sede": "Fortaleza, CE",
+    },
+    { "name": "FEMUG-CE",
+      "chapter": "estadual",
+      "host_city": "Fortaleza, CE",
+      "geo": {
+        "lat": "-3.7318616",
+        "lng": "-38.5266704"
+        },
       "url": "http://bit.ly/FEMUG-CE",
-      "formulario-anfitriao": "",
-      "fundador": "Daniel Castro",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Daniel Castro",
+      "moderators": [
         "Daniel Castro",
         "Elias de Oliveira"
       ]
-    }],
-    "FEMUG-MG": [{
-      "capitulo": "estadual",
-      "sede": "Belo Horizonte, MG",
+    },
+    { "name": "FEMUG-MG",
+      "chapter": "estadual",
+      "host_city": "Belo Horizonte, MG",
+      "geo": {
+        "lat": "-19.9166813",
+        "lng": "-43.9344931"
+        },
       "url": "http://cnun.es/K0eUm6",
-      "formulario-anfitriao": "",
-      "fundador": "Ciro Nunes",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Ciro Nunes",
+      "moderators": [
         "Ciro Nunes"
       ]
-    }],
-    "FEMUG-GO": [{
-      "capitulo": "estadual",
-      "sede": "Goiânia, GO",
+    },
+    { "name": "FEMUG-GO",
+      "chapter": "estadual",
+      "host_city": "Goiânia, GO",
+      "geo": {
+        "lat": "-16.6868912",
+        "lng": "-49.264794300000005"
+        },
       "url": "http://bit.ly/FEMUG-GO",
-      "formulario-anfitriao": "",
-      "fundador": "João Felix",
-      "moderadores": [
+      "host_form": "",
+      "founder": "João Felix",
+      "moderators": [
         "João Felix"
       ]
-    }],
-    "FEMUG-SC": [{
-      "capitulo": "estadual",
-      "sede": "Florianópolis, SC",
+    },
+    { "name": "FEMUG-SC",
+      "chapter": "estadual",
+      "host_city": "Florianópolis, SC",
+      "geo": {
+        "lat": "-27.5953778",
+        "lng": "-48.548049900000024"
+        },
       "url": "http://goo.gl/vwLJe9",
-      "formulario-anfitriao": "",
-      "fundador": "Diogo Moretti",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Diogo Moretti",
+      "moderators": [
         "Diogo Moretti",
         "Pedro Nauck"
       ]
-    }],
-    "FEMUG-AM": [{
-      "capitulo": "estadual",
-      "sede": "Manaus, AM",
+    },
+    { "name": "FEMUG-AM",
+      "chapter": "estadual",
+      "host_city": "Manaus, AM",
+      "geo": {
+        "lat": "-3.1190275",
+        "lng": "-60.02173140000002"
+        },
       "url": "http://j.mp/femug-am",
-      "formulario-anfitriao": "http://j.mp/femug-am-anf",
-      "fundador": "Ayrton Araújo",
-      "moderadores": [
+      "host_form": "http://j.mp/femug-am-anf",
+      "founder": "Ayrton Araújo",
+      "moderators": [
         "Ayrton Araújo"
       ]
-    }],
-    "FEMUG-SM": [{
-      "capitulo": "regional",
-      "sede": "Santa Maria, RS",
+    },
+    { "name": "FEMUG-SM",
+      "chapter": "regional",
+      "host_city": "Santa Maria, RS",
+      "geo": {
+        "lat": "-29.6873064",
+        "lng": "-53.81547690000002"
+        },
       "url": "http://bit.ly/FEMUG-SM",
-      "formulario-anfitriao": "http://bit.ly/FEMUG-SM-ANF",
-      "fundador": "Thiago Alves Luiz",
-      "moderadores": [
+      "host_form": "http://bit.ly/FEMUG-SM-ANF",
+      "founder": "Thiago Alves Luiz",
+      "moderators": [
         "Thiago Alves Luiz",
         "Tonin R. Bolzan"
       ]
-    }],
-    "FEMUG-LI": [{
-      "capitulo": "regional",
-      "sede": "Linhares, ES",
+    },
+    { "name": "FEMUG-LI",
+      "chapter": "regional",
+      "host_city": "Linhares, ES",
+      "geo": {
+        "lat": "-19.3946651",
+        "lng": "-40.065264100000036"
+        },
       "url": "http://bit.ly/1Fo0bI5",
-      "formulario-anfitriao": "",
-      "fundador": "Lucas Valhos",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Lucas Valhos",
+      "moderators": [
         "Lucas Valhos",
         "Leonan Luppi"
       ]
-    }],
-    "FEMUG-DF": [{
-      "capitulo": "estadual",
-      "sede": "Brasília, DF",
+    },
+    { "name": "FEMUG-DF",
+      "chapter": "estadual",
+      "host_city": "Brasília, DF",
+      "geo": {
+        "lat": "-15.7942287",
+        "lng": "-47.882165799999996"
+        },
       "url": "http://goo.gl/QTcfak",
-      "formulario-anfitriao": "",
-      "fundador": "Leandro Ferreira",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Leandro Ferreira",
+      "moderators": [
         "Leandro Ferreira",
         "Joilson Marques"
       ]
-    }],
-    "FEMUG-AL": [{
-      "capitulo": "estadual",
-      "sede": "Maceió, AL",
+    },
+    { "name": "FEMUG-AL",
+      "chapter": "estadual",
+      "host_city": "Maceió, AL",
+      "geo": {
+        "lat": "-9.6498487",
+        "lng": "-35.708949200000006"
+        },
       "url": "http://meetup.com/FEMUG-AL",
-      "formulario-anfitriao": "",
-      "fundador": "Juarez Filho",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Juarez Filho",
+      "moderators": [
         "Juarez Filho",
         "Tiago Cedrim"
       ]
-    }],
-    "FEMUG-MA": [{
-      "capitulo": "estadual",
-      "sede": "São Luis, MA",
+    },
+    { "name": "FEMUG-MA",
+      "chapter": "estadual",
+      "host_city": "São Luis, MA",
+      "geo": {
+        "lat": "-2.5391099",
+        "lng": "-44.282904599999995"
+        },
       "url": "https://goo.gl/zJH9K0",
-      "formulario-anfitriao": "",
-      "fundador": "Nanderson Castro",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Nanderson Castro",
+      "moderators": [
         "Nanderson Castro",
         "Junior Lima"
       ]
-    }],
-    "FEMUG-PE": [{
-      "capitulo": "estadual",
-      "sede": "Recife, PE",
+    },
+    { "name": "FEMUG-PE",
+      "chapter": "estadual",
+      "host_city": "Recife, PE",
+      "geo": {
+        "lat": "-23.6898429",
+        "lng": "-46.564848100000006"
+        },
       "url": "http://meetup.com/FEMUG-PE/",
-      "formulario-anfitriao": "",
-      "fundador": "Joselito Júnior",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Joselito Júnior",
+      "moderators": [
         "Clóvis Neto",
         "Jeftár Mascarenhas"
       ]
-    }],
-    "FEMUG-ABC": [{
-      "capitulo": "regional",
-      "sede": "São Bernardo do Campo, SP",
+    },
+    { "name": "FEMUG-ABC",
+      "chapter": "regional",
+      "host_city": "São Bernardo do Campo, SP",
+      "geo": {
+        "lat": "-8.0578381",
+        "lng": "-34.88289689999999"
+        },
       "url": "https://goo.gl/jvfyUb",
-      "formulario-anfitriao": "",
-      "fundador": "William de Oliveira Souza",
-      "moderadores": [
+      "host_form": "",
+      "founder": "William de Oliveira Souza",
+      "moderators": [
         "William de Oliveira Souza",
         "Danilo Vitoriano",
         "Marcus Vinicius(Marquinhus)"
       ]
-    }],
-    "FEMUG-RJ": [{
-      "capitulo": "regional",
-      "sede": "Rio de Janeiro, RJ",
+    },
+    { "name": "FEMUG-RJ",
+      "chapter": "regional",
+      "host_city": "Rio de Janeiro, RJ",
+      "geo": {
+        "lat": "-22.9068467",
+        "lng": "-43.17289649999998"
+        },
       "url": "http://bit.ly/1Ulw0xh",
-      "formulario-anfitriao": "",
-      "fundador": "Raphael Amorim",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Raphael Amorim",
+      "moderators": [
         "Richard Duchatsch Johansen",
         "Afonso Pacifer"
       ]
-    }],
-    "FEMUG-CWB": [{
-      "capitulo": "regional",
-      "sede": "Curitiba, PR",
+    },
+    { "name": "FEMUG-CWB",
+      "chapter": "regional",
+      "host_city": "Curitiba, PR",
+      "geo": {
+        "lat": "-23.4209995",
+        "lng": "-51.933055800000034"
+        },
       "url": "http://bit.ly/1KOES4M",
-      "formulario-anfitriao": "",
-      "fundador": "Fernando Moreira",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Fernando Moreira",
+      "moderators": [
         "Celso Fabri",
         "Cezar Luiz",
         "Lídia Freitas",
         "Matheus Vieira"
       ]
-    }],
-    "FEMUG-MGA": [{
-      "capitulo": "regional",
-      "sede": "Maringá, PR",
+    },
+    { "name": "FEMUG-MGA",
+      "chapter": "regional",
+      "host_city": "Maringá, PR",
+      "geo": {
+        "lat": "-26.3044084",
+        "lng": "-48.84638319999999"
+        },
       "url": "http://bit.ly/1T5Ukyt",
-      "formulario-anfitriao": "",
-      "fundador": "Guilherme Bayer",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Guilherme Bayer",
+      "moderators": [
         "Guilherme Bayer",
         "Renan Pimentel"
       ]
-    }],
-    "FEMUG-JLLE": [{
-      "capitulo": "regional",
-      "sede": "Joinville, SC",
+    },
+    { "name": "FEMUG-JLLE",
+      "chapter": "regional",
+      "host_city": "Joinville, SC",
+      "geo": {
+        "lat": "-25.4289541",
+        "lng": "-49.26713699999999"
+        },
       "url": "http://bit.ly/1OA8fM5",
-      "formulario-anfitriao": "",
-      "fundador": "Matheus Poleza",
-      "moderadores": [
+      "host_form": "",
+      "founder": "Matheus Poleza",
+      "moderators": [
         "Matheus Poleza",
         "Fernando Daciuk",
         "Guilherme Berghauser"
       ]
-    }]
-  }
+    }
+  ]
 }
+
