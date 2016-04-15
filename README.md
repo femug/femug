@@ -88,6 +88,8 @@ Este documento foi criado em cima da experiência adquirida na organização do 
 
 Primeiro, leia este documento até o final (no mínimo) duas vezes. Quando terminar, leia o arquivo [CONTRIBUTING.md](https://github.com/femug/femug/blob/master/CONTRIBUTING.md); nele, encontrará informações de como contribuir. Depois, clone este repositório, altere os arquivos [LISTA.md](https://github.com/femug/femug/blob/master/LISTA.md) e [femug-list.json](https://github.com/femug/femug/blob/master/femug-list.json) com as informações do FEMUG que pretende inaugurar.
 
+Para preencher a latitude e longitude da cidade sede do capítulo, você pode usar ferramentas uma ferramenta como [latlong.net](http://latlong.net).
+
 Você também precisa criar uma versão do logotipo, com as iniciais do capítulo que está aplicando. Exemplo: FEMUG-*BR*, FEMUG-*SP* e assim por diante.
 
 Para isso, é disponibilizado um arquivo no formato [`.svg`](https://github.com/femug/femug/blob/master/logotipo/resources/FEMUG-BR.svg), [`.sketch`](https://github.com/femug/femug/blob/master/logotipo/resources/FEMUG-BR.sketch) e [`.ai`](https://github.com/femug/femug/blob/master/logotipo/resources/FEMUG-BR.ai). É necessário que você tenha a fonte [‘Exo 2’](https://github.com/femug/femug/tree/master/logotipo/resources/Exo%202) instalada na máquina.
