@@ -183,8 +183,8 @@
       "chapter": "estadual",
       "host_city": "Recife, PE",
       "geo": {
-        "lat": "-23.6898429",
-        "lng": "-46.564848100000006"
+        "lat": "-8.0578381",
+        "lng": "-34.88289689999999"
         },
       "url": "http://meetup.com/FEMUG-PE/",
       "host_form": "",
@@ -198,8 +198,8 @@
       "chapter": "regional",
       "host_city": "São Bernardo do Campo, SP",
       "geo": {
-        "lat": "-8.0578381",
-        "lng": "-34.88289689999999"
+        "lat": "-23.6898429",
+        "lng": "-46.564848100000006"
         },
       "url": "https://goo.gl/jvfyUb",
       "host_form": "",
@@ -229,8 +229,8 @@
       "chapter": "regional",
       "host_city": "Curitiba, PR",
       "geo": {
-        "lat": "-23.4209995",
-        "lng": "-51.933055800000034"
+        "lat": "-25.428954",
+        "lng": "-49.267137"
         },
       "url": "http://bit.ly/1KOES4M",
       "host_form": "",
@@ -246,8 +246,8 @@
       "chapter": "regional",
       "host_city": "Maringá, PR",
       "geo": {
-        "lat": "-26.3044084",
-        "lng": "-48.84638319999999"
+        "lat": "-23.421000",
+        "lng": "-51.933056"
         },
       "url": "http://bit.ly/1T5Ukyt",
       "host_form": "",
@@ -261,8 +261,8 @@
       "chapter": "regional",
       "host_city": "Joinville, SC",
       "geo": {
-        "lat": "-25.4289541",
-        "lng": "-49.26713699999999"
+        "lat": "-26.304408",
+        "lng": "-48.846383"
         },
       "url": "http://bit.ly/1OA8fM5",
       "host_form": "",
