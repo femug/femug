@@ -155,11 +155,9 @@ Lista         : https://goo.gl/jvfyUb
 Form Anfitrião:
 Capítulo      : Regional
 Sede          : São Bernardo do Campo, SP
-Responsável   : William de OLiveira Souza
-Moderadores   : William de OLiveira Souza
-                Danilo Vitoriano
+Responsável   : Ubirajara Pelli
+Moderadores   : Ubirajara Pelli
                 Marcus Vinicius (Marquinhus)
-                Felipe Uliana (Brutinhos)
 ```
 -----
 ## FEMUG-RJ
