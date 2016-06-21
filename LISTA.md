@@ -5,13 +5,13 @@ Abaixo, todos os FEMUGs oficiais, criados à partir da [documentação criada pe
 ## FEMUG-SP
 ```
 Lista         : http://bit.ly/FEMUGSP
-Form Anfitrião: http://bit.ly/FEMUG-SP-ANF
+Form Anfitrião: http://goo.gl/forms/RKo0AZzseH0Ip0PC3
 Capítulo      : Estadual
 Sede          : São Paulo, SP
 Responsável   : Daniel Filho
-Moderadores   : Daniel Filho,
+Moderadores   : Diogo Silva,
                 Lucas Mazza,
-                Marcel dos Santos 
+                Marcel dos Santos
 ```
 -----
 ## FEMUG-RS
