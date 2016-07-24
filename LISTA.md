@@ -211,7 +211,7 @@ Moderadores   : Matheus Poleza
 -----
 ## FEMUG-GRU
 ```
-Lista         : http://#
+Lista         : http://bit.ly/femug-gru
 Form Anfitrião:
 Capítulo      : Regional
 Sede          : Guarulhos, SP
