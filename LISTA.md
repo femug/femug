@@ -216,7 +216,7 @@ Form Anfitrião:
 Capítulo      : Regional
 Sede          : Guarulhos, SP
 Responsável   : Raul Fernando
-Moderadores   : Thiago Silva
+Moderadores   : Thiago Santos
                 
 ```
 -----
