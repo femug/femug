@@ -271,6 +271,20 @@
         "Fernando Daciuk",
         "Guilherme Berghauser"
       ]
+    },
+    { "name": "FEMUG-GRU",
+      "chapter": "regional",
+      "host_city": "Guarulhos, SP",
+      "geo": {
+        "lat": "-23.454250",
+        "lng": "-46.533793"
+        },
+      "url": "http://bit.ly/femug-gru",
+      "host_form": "",
+      "founder": "Raul Fernando",
+      "moderators": [
+        "Thiago Santos",
+      ]
     }
   ]
 }

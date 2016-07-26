@@ -209,3 +209,14 @@ Moderadores   : Matheus Poleza
 
 ```
 -----
+## FEMUG-GRU
+```
+Lista         : http://bit.ly/femug-gru
+Form Anfitrião:
+Capítulo      : Regional
+Sede          : Guarulhos, SP
+Responsável   : Raul Fernando
+Moderadores   : Thiago Santos
+                
+```
+-----
