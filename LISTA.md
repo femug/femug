@@ -39,15 +39,16 @@ Moderadores   : Daniel Castro
 -----
 ## FEMUG-MG
 ```
-Lista         : http://cnun.es/K0eUm6
+Lista         : https://goo.gl/o2ITVw
 Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Belo Horizonte, MG
-Responsável   : Ciro Nunes
-Moderadores   : Ciro Nunes
-                Beto Muniz
-                Erick Belfort
-                Rodolfo Dias
+Responsável   : Beto Muniz
+Moderadores   : Beto Muniz
+                Juan Pablo Rivillas
+                Rodrigo Antinarelli
+                Victor Ferraz
+                Yan Magalhães
 ```
 -----
 ## FEMUG-GO
