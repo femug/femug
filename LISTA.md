@@ -180,9 +180,7 @@ Form Anfitrião:
 Capítulo      : Regional
 Sede          : Curitiba, PR
 Responsável   : Fernando Moreira
-Moderadores   : Celso Fabri
-                Cezar Luiz
-                Lídia Freitas
+Moderadores   : Lídia Freitas
                 Matheus Vieira
 ```
 -----
