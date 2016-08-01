@@ -39,7 +39,7 @@ Moderadores   : Daniel Castro
 -----
 ## FEMUG-MG
 ```
-Lista         : https://goo.gl/o2ITVw
+Lista         : https://goo.gl/3kHdCn
 Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Belo Horizonte, MG
