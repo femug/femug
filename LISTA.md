@@ -75,11 +75,13 @@ Moderadores   : Diogo Moretti
 ## FEMUG-AM
 ```
 Lista         : http://j.mp/femug-am
-Form Anfitrião: http://j.mp/femug-am-anf
+Form Anfitrião: http://bit.ly/2b9HaWI
 Capítulo      : Estadual
 Sede          : Manaus, AM
-Responsável   : Ayrton Araújo
-Moderadores   : Ayrton Araújo
+Responsável   : Kirmayr Tomaz
+Moderadores   : Kirmayr Tomaz
+                Jaime Neves
+                
 ```
 -----
 ## FEMUG-SM
