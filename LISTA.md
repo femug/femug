@@ -195,7 +195,8 @@ Sede          : Maringá, PR
 Responsável   : Guilherme Bayer
 Moderadores   : Guilherme Bayer
                 Renan Pimentel
-                Julio Vedovatto 
+                Julio Vedovatto
+                Junior Conte
 ```
 -----
 ## FEMUG-JLLE
