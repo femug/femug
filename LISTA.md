@@ -43,10 +43,8 @@ Lista         : https://goo.gl/3kHdCn
 Form Anfitrião:
 Capítulo      : Estadual
 Sede          : Belo Horizonte, MG
-Responsável   : Beto Muniz
-Moderadores   : Beto Muniz
-                Juan Pablo Rivillas
-                Rodrigo Antinarelli
+Responsável   : Victor Ferraz
+Moderadores   : Juan Pablo Rivillas
                 Victor Ferraz
                 Yan Magalhães
 ```
@@ -81,7 +79,7 @@ Sede          : Manaus, AM
 Responsável   : Kirmayr Tomaz
 Moderadores   : Kirmayr Tomaz
                 Jaime Neves
-                
+
 ```
 -----
 ## FEMUG-SM
@@ -220,6 +218,6 @@ Capítulo      : Regional
 Sede          : Guarulhos, SP
 Responsável   : Raul Fernando
 Moderadores   : Thiago Santos
-                
+
 ```
 -----
