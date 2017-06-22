@@ -1,6 +1,6 @@
 # Índice FEMUG
 
-Abaixo, todos os FEMUGs oficiais, criados à partir da [documentação criada pela BrazilJS Foundation](http://github.com/braziljs/femug).
+Abaixo, todos os FEMUGs oficiais, criados à partir da [documentação criada pela BrazilJS Foundation](http://github.com/femug/femug).
 
 ## FEMUG-SP
 ```
