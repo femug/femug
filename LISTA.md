@@ -4,7 +4,7 @@ Abaixo, todos os FEMUGs oficiais, criados à partir da [documentação criada pe
 
 ## FEMUG-SP
 ```
-Lista         : http://bit.ly/FEMUGSP
+Lista         : http://meetup.com/femugsp
 Form Anfitrião: http://goo.gl/forms/RKo0AZzseH0Ip0PC3
 Capítulo      : Estadual
 Sede          : São Paulo, SP
