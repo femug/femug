@@ -144,10 +144,11 @@ Lista         : http://meetup.com/FEMUG-PE/
 Form Anfitrião: https://bit.ly/FEMUG-PE-ANF
 Capítulo      : Estadual
 Sede          : Recife, PE
-Responsável   : Joselito Júnior
-Moderadores   : Joselito Júnior
+Responsável   : Clóvis Neto
+Moderadores   : Simone Amorim
                 Clóvis Neto
                 Jeftár Mascarenhas
+                Ewerton Souza
 ```
 -----
 ## FEMUG-ABC
