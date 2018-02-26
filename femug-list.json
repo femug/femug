@@ -189,12 +189,14 @@
         "lat": "-8.0578381",
         "lng": "-34.88289689999999"
         },
-      "url": "http://meetup.com/FEMUG-PE/",
+      "url": "https://www.meetup.com/pt-BR/FEMUGPE-Recife/",
       "host_form": "",
       "founder": "Joselito Júnior",
       "moderators": [
         "Clóvis Neto",
-        "Jeftár Mascarenhas"
+        "Jeftár Mascarenhas",
+        "Simone Amorim",
+        "Ewerton Souza"
       ]
     },
     { "name": "FEMUG-ABC",
