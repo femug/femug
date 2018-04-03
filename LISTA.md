@@ -187,13 +187,12 @@ Moderadores   : Lídia Freitas
 -----
 ## FEMUG-MGA
 ```
-Lista         : http://bit.ly/1T5Ukyt
+Lista         : https://femugmga.github.io
 Form Anfitrião:
 Capítulo      : Regional
 Sede          : Maringá, PR
 Responsável   : Guilherme Bayer
 Moderadores   : Guilherme Bayer
-                Renan Pimentel
                 Julio Vedovatto
                 Junior Conte
 ```
