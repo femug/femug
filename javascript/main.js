@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $.getJSON('https://cdn.rawgit.com/femug/femug/20160202/femug-list.json', function (data) {
+  $.getJSON('https://cdn.rawgit.com/femug/femug/gh-pages/javascript/main.js', function (data) {
     var femugs = data.femug;
     var markup_femugs = [];
 
